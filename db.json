@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "title": "hello leneerd do you like my bangos",
+      "body": "finallydone.netlify.app",
+      "likes": 0,
+      "id": 1,
+      "img":"https://levbitz.com/img/logo.svg"
+    },
+    {
+      "title": "hello leneerd do you like my bangos",
+      "body": "iyvkhhubjmn",
+      "likes": 0,
+      "id": 2
+    },
+     {
+      "title": "samuel",
+      "body": "finallydone.netlify.app",
+      "likes": 0,
+      "id": 1
+    },
+    {
+      "title": "levson",
+      "body": "iyvkhhubjmn",
+      "likes": 0,
+      "id": 2
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
